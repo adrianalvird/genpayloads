@@ -10,3 +10,4 @@ def generate_context_aware_payload(base_payload, context):
         return f"javascript:{base_payload}"
     else:
         return base_payload
+

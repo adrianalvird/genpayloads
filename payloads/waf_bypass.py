@@ -11,3 +11,4 @@ def bypass_waf(payload, waf_signatures):
 def obfuscate_signature(signature):
     """Obfuscates a given WAF signature."""
     return ''.join(['&#' + str(ord(char)) + ';' for char in signature])
+

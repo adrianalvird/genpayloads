@@ -13,3 +13,4 @@ def parse_html_for_context(html):
 
     # Add more parsing logic as needed
     return contexts
+

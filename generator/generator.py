@@ -16,3 +16,4 @@ def generate_payloads(context):
         waf_bypass_payload = bypass_waf(obfuscated_payload, WAF_SIGNATURES)
         payloads.append(waf_bypass_payload)
     return payloads
+

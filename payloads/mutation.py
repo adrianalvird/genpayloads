@@ -11,3 +11,4 @@ def obfuscate_payload(payload):
     return ''.join([char + ' ' for char in payload]).strip()
 
 # Add more mutation techniques as needed
+

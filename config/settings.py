@@ -14,3 +14,4 @@ REQUEST_HEADERS = {
     'User-Agent': 'XSS-Payload-Generator/1.0',
     # Add any other headers you need
 }
+

@@ -15,3 +15,4 @@ def save_report(html_content, filename="report.html"):
     """Saves the generated report to an HTML file."""
     with open(filename, 'w') as f:
         f.write(html_content)
+

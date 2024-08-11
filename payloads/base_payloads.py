@@ -6,3 +6,4 @@ BASE_PAYLOADS = [
     '<svg/onload=alert(1)>',
     # Add more base payloads as needed
 ]
+
