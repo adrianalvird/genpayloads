@@ -16,16 +16,13 @@ This tool generates advanced XSS payloads that are context-aware, mutated, and d
 1. Install dependencies:
    ```sh
    pip install -r requirements.txt
-```
 
 2. Run Genpaylaods:
     ```sh
     python scripts/run_generator.py
-```
 
 3. Run the tests:
     ``` sh
     python scripts/run_tests.py
-```
 
 
