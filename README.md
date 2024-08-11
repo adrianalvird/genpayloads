@@ -1,4 +1,4 @@
-# XSS Payload Generator
+is# XSS Payload Generator
 
 ## Overview
 This tool generates advanced XSS payloads that are context-aware, mutated, and designed to bypass WAFs. The payloads are tested against a target URL, and successful ones are reported.
@@ -24,5 +24,4 @@ This tool generates advanced XSS payloads that are context-aware, mutated, and d
 3. Run the tests:
     ``` sh
     python scripts/run_tests.py
-
 
